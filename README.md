@@ -1,6 +1,6 @@
 # 🧠 Bengali Digit Classification Using Deep Learning
 
-### 📘 Course: DS556 — Deep Learning  
+### 📘 Course: DS556 — Image Processing   
 **Institute:** IIT Ropar & IIM Amritsar  
 **Authors:**  
 - Aditya Guleria (2024DSS1002)  
